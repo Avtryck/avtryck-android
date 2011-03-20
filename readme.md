@@ -12,7 +12,7 @@ Skärmdumpar
 ===========
 
 ![Alt text](https://github.com/Avtryck/avtryck-projectweb/raw/master/appening/captures/7.png "Lista på vandringar")
-![Alt text](https://github.com/Avtryck/avtryck-projectweb/raw/master/appening/captures/6.png "Vandringsöversikt")
+![Alt text](https://github.com/Avtryck/avtryck-projectweb/raw/master/appening/captures/5.png "Vandringsöversikt")
 ![Alt text](https://github.com/Avtryck/avtryck-projectweb/raw/master/appening/captures/8.png "Vandringskarta landskapsläge")
 
 
