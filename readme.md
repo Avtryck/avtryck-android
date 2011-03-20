@@ -27,7 +27,7 @@ Appening 2011 finns på [bambuser][bambuser]. Vi presenterar Avtryck mellan 3.40
 Se även våra [slides][slides]. 
 
 [bambuser]: http://bambuser.com/node/1590759
-[slides]: https://github.com/nollbit/Avtryck/blob/master/appening-slides.pdf?raw=true
+[slides]: https://github.com/Avtryck/avtryck-projectweb/raw/master/appening/avtryck-slides.pdf
 
 Skärmdumpar
 ===========
