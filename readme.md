@@ -1,15 +1,13 @@
 Avtryck
 =======
 
-Avtryck är en tjänst för mobila presentationer av rika datakällor. Första versionen använder material från K-Samsök.
+Avtryck är en tjänst för mobila presentationer av rika datakällor. Läs mer om tjänsten [här][aprojectweb]. 
 
- * Vår Android-applikation tar dig på guidade rundturer genom ett rikt kulturhistoriskt material
- * Med ett enkelt [webbgränssnitt][aweb] kan du skapa och lägga till egna turer
+Vår Android-applikation tar dig på guidade rundturer genom ett rikt kulturhistoriskt material.
+Det finns ett [webbgränssnitt][aweb] där du kan skapa och lägga till egna turer.
 
 [aweb]: https://github.com/Avtryck/avtryck-web
-
-[bambuser]: http://bambuser.com/node/1590759
-[slides]: https://github.com/Avtryck/avtryck-projectweb/raw/master/appening/avtryck-slides.pdf
+[aprojectweb]: https://github.com/Avtryck/avtryck-projectweb
 
 Skärmdumpar
 ===========
