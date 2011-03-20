@@ -1,10 +1,9 @@
 Avtryck
 =======
 
-Avtryck är en tjänst för mobila presentationer av rika datakällor. Läs mer om tjänsten [här][aprojectweb]. 
+Avtryck är en tjänst för mobila presentationer av rika datakällor. Vår Android-applikation tar dig på guidade rundturer genom ett rikt kulturhistoriskt material.
 
-Vår Android-applikation tar dig på guidade rundturer genom ett rikt kulturhistoriskt material.
-Det finns ett [webbgränssnitt][aweb] där du kan skapa och lägga till egna turer.
+ [Läs mer om hela tjänsten Avtryck][aprojectweb]. Det finns även ett [webbgränssnitt][aweb] där du kan skapa och lägga till egna turer.
 
 [aweb]: https://github.com/Avtryck/avtryck-web
 [aprojectweb]: https://github.com/Avtryck/avtryck-projectweb
