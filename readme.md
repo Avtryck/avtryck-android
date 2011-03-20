@@ -7,7 +7,7 @@ Avtryck är en tjänst för mobila presentationer av rika datakällor. Första v
  * Med ett enkelt [webbgränssnitt][aweb] kan du skapa och lägga till egna turer
 
 [appening]: http://www.appening.se
-[aweb]: https://github.com/nollbit/Avtryck-Web
+[aweb]: https://github.com/Avtryck/avtryck-web
 
 Priser
 ======
