@@ -32,10 +32,10 @@ Se även våra [slides][slides].
 Skärmdumpar
 ===========
 
-![Alt text](https://github.com/Avtryck/avtryck-android/blob/master/captures/7.png "Lista på vandringar")
-![Alt text](https://github.com/Avtryck/avtryck-android/blob/master/captures/6.png "Vandringsöversikt")
-![Alt text](https://github.com/Avtryck/avtryck-android/blob/master/captures/3.png "Vandringskarta")
-![Alt text](https://github.com/Avtryck/avtryck-android/blob/master/captures/8.png "Vandringskarta landskapsläge")
+![Alt text](avtryck-android/blob/master/captures/7.png "Lista på vandringar")
+![Alt text](avtryck-android/blob/master/captures/6.png "Vandringsöversikt")
+![Alt text](avtryck-android/blob/master/captures/3.png "Vandringskarta")
+![Alt text](avtryck-android/blob/master/captures/8.png "Vandringskarta landskapsläge")
 
 
 Beroenden
