@@ -11,10 +11,10 @@ Vår Android-applikation tar dig på guidade rundturer genom ett rikt kulturhist
 Skärmdumpar
 ===========
 
-![Alt text](https://github.com/Avtryck/avtryck-projectweb/raw/master/appening/captures/7.png "Lista på vandringar")
-![Alt text](https://github.com/Avtryck/avtryck-projectweb/raw/master/appening/captures/5.png "Vandringsöversikt")
-![Alt text](https://github.com/Avtryck/avtryck-projectweb/raw/master/appening/captures/8.png "Vandringskarta landskapsläge")
-
+![Alt text](https://github.com/Avtryck/avtryck-projectweb/raw/master/appening/captures/routelist "Lista turer")
+![Alt text](https://github.com/Avtryck/avtryck-projectweb/raw/master/appening/captures/routeinfo.png "Översikt tur")
+![Alt text](https://github.com/Avtryck/avtryck-projectweb/raw/master/appening/captures/route_nopopups.png "Tur porträttläge")
+![Alt text](https://github.com/Avtryck/avtryck-projectweb/raw/master/appening/captures/route_route_landcape.png "Tur landskapsläge")
 
 Beroenden
 =========
