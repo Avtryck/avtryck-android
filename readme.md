@@ -12,6 +12,7 @@ Skärmdumpar
 ===========
 
 ![Alt text](https://github.com/Avtryck/avtryck-projectweb/raw/master/appening/captures/routelist.png "Lista turer")
+Välj mellan olika rundturer
 ![Alt text](https://github.com/Avtryck/avtryck-projectweb/raw/master/appening/captures/routeinfo.png "Översikt tur")
 ![Alt text](https://github.com/Avtryck/avtryck-projectweb/raw/master/appening/captures/route_nopopups.png "Tur porträttläge")
 ![Alt text](https://github.com/Avtryck/avtryck-projectweb/raw/master/appening/captures/route_route_landcape.png "Tur landskapsläge")
