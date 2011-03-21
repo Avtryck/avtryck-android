@@ -13,10 +13,10 @@ Skärmdumpar
 
 ![Alt text](https://github.com/Avtryck/avtryck-projectweb/raw/master/appening/captures/routelist.png "Lista turer")
 ![Alt text](https://github.com/Avtryck/avtryck-projectweb/raw/master/appening/captures/routeinfo.png "Översikt tur")
-![Alt text](https://github.com/Avtryck/avtryck-projectweb/raw/master/appening/captures/route_landcape.png "Tur landskapsläge")
+![Alt text](https://github.com/Avtryck/avtryck-projectweb/raw/master/appening/captures/route_landscape.png "Tur landskapsläge")
 ![Alt text](https://github.com/Avtryck/avtryck-projectweb/raw/master/appening/captures/route_popup1.png "Runsten popup")
-![Alt text](https://github.com/Avtryck/avtryck-projectweb/raw/master/appening/captures/runsten_detail.png "Runsten info")
-![Alt text](https://github.com/Avtryck/avtryck-projectweb/raw/master/appening/captures/runsten_hires.png "Runsten hires")
+![Alt text](https://github.com/Avtryck/avtryck-projectweb/raw/master/appening/captures/runsten detail.png "Runsten info")
+![Alt text](https://github.com/Avtryck/avtryck-projectweb/raw/master/appening/captures/runsten hires.png "Runsten hires")
 
 Beroenden
 =========
